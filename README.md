@@ -23,7 +23,7 @@ I am a Devloper,Gamer,Coder I Am Expert In Minecraft Development And I Kwon Many
 <img src="https://komarev.com/ghpvc/?username=2208Prathamesh&color=blue">
 
 
-![Discord]([https://lanyard.cnrad.dev/api/794211471516893204)
+![Discord](https://lanyard.cnrad.dev/api/794211471516893204)
 
 <img align="right" alt="My top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=privt00&theme=github_dark&show_icons=true&layout=compact" />
 
