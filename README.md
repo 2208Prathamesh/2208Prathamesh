@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Prathamesh Barbole, 
-I am a IT-Student,Devloper,Gamer,Coder I Am Expert In Minecraft Development And I Kwon Many Languages
+I am a IT-Student, Devloper, Gamer, Coder I Am Expert In Minecraft Development And I Kwon Many Languages
 
 * `🌐` Full Stack Web Developer
 * `🎮` Full Stack MC Devloper
