@@ -12,6 +12,7 @@ I am a IT Engineering Student, Also Devloper, Gamer, Coder I Am Expert In Minecr
 <br>
 `✉️` You Can [admin@barbole.tech](admin@barbole.tech) if you need to talk,
 
+![C++](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=c++&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
