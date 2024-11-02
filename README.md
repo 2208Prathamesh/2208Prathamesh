@@ -8,9 +8,9 @@ I am a IT Engineering Student, Also Devloper, Gamer, Coder I Am Expert In Minecr
 
 
 
-`🌐` You Can See My Above In [https://os.heropixel.fun](http://os.heropixel.fun).
+`🌐` You Can See My Above In [http://heropixel.fun](http://heropixel.fun).
 <br>
-`✉️` You Can [heropixelnetwork@gmail.com](mailto: heropixelnetwork@gmail.com) if you need to talk,
+`✉️` You Can [heropixelnetwork@gmail.com](mailto:heropixelnetwork@gmail.com) if you need to talk,
 
 ![C++](https://img.shields.io/badge/C++-E34F26?style=for-the-badge&logo=c++&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
