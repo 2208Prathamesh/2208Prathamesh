@@ -8,7 +8,7 @@ I am a IT Engineering Student, Also Devloper, Gamer, Coder I Am Expert In Minecr
 
 
 
-`🌐` You Can See My Above In [http://heropixel.fun](http://heropixel.fun).
+`🌐` You Can See My Above In [http://www.heropixel.fun](http://www heropixel.fun).
 <br>
 `✉️` You Can [heropixelnetwork@gmail.com](mailto:heropixelnetwork@gmail.com) if you need to talk,
 
