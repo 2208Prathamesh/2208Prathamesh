@@ -1,10 +1,10 @@
 # 👋 Hey, I'm Prathamesh Barbole, 
-I am a IT Engineering Student, Also Devloper, Gamer, Coder I Am Expert In Minecraft Development And I Kwon Many Languages
+I am a IT Engineering Student, Also Devloper, Gamer, Coder I Am Expert In Minecraft Development And I Know Many Languages
 
-* `🌐` Full Stack Web Developer
-* `🎮` Full Stack MC Devloper
-* `🤖` Full Stack Discord Devloper
-* `🟢` And More
+* `🌐` Web Developer.
+* `🎮` MC Server/Network Devloper.
+* `🤖` Discord Server/Bot Devloper.
+* `🟢` And Many More,
 
 
 
