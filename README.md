@@ -26,5 +26,5 @@ I am an IT Engineering Student, Also Devloper, Gamer, Coder I Am Expert In Minec
 
 ![Discord](https://lanyard.cnrad.dev/api/794211471516893204)
 
-<img align="right" alt="My top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=privt00&theme=github_dark&show_icons=true&layout=compact" />
+<img align="right" alt="My top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2208Prathamesh&theme=github_dark&show_icons=true&layout=compact" />
 
