@@ -1,6 +1,5 @@
 # 👋 Hey, I'm Prathamesh Barbole, 
 I am an IT Engineering Student, Also Devloper, Gamer, Coder I Am Expert In Minecraft server Development And I Know Many Languages,
-https://ac39345d-4ce1-4b18-b8ac-7010d3127bb8-00-2l1esgx6zwn8f.kirk.replit.dev/
 * `🌐` Web Developer, Domain management.
 * `🎮` MC Server/Network Devloper.
 * `🤖` Discord Server/Bot Devloper.
