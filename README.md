@@ -34,7 +34,7 @@
 ## 🚀 Currently Learning & Exploring
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,bootstrap,nodejs,express,fastapi,mysql,mongodb,docker,aws,azure" />
+  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,bootstrap,nodejs,express,fastapi,mysql,mongodb,docker,aws,azure,n8n" />
 </p>
 
 
