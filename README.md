@@ -6,7 +6,7 @@
 <h3 align="center">Software Developer | AI Enthusiast | Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=🎓+B.Tech+in+Information+Technology;💻+Crafting+clean+code+%26+scalable+systems;🤖+Exploring+the+frontiers+of+AI+%26+Automation;🚀+Founder+of+Heropixel+Network;🧠+Always+learning,+always+building" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=%F0%9F%8E%93+B.Tech+in+Information+Technology;💻+Building+Clean+%26+Scalable+Systems;🤖+AI+%26+Automation+Enthusiast;🚀+Founder+of+Heropixel+Network;🧠+Learn.+Build.+Innovate." />
 </p>
 
 <p align="center">
