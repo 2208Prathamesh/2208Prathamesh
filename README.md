@@ -47,17 +47,37 @@
 
 <p align="center"><b>Frontend & UI</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css&perline=10" />
+  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,bootstrap,html,css&perline=10" />
 </p>
 
 <p align="center"><b>Backend & Databases</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mysql,mongodb,firebase&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,redis,mysql,mongodb,firebase&perline=10" />
 </p>
 
 <p align="center"><b>DevOps, Cloud & Tools</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws,azure,gcp,vscode&perline=10" />
+</p>
+
+<p align="center"><b>AI Powerhouse</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Perplexity-1FB6FF?style=for-the-badge&logo=perplexity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/V0.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Replit_Agent-FF6B00?style=for-the-badge&logo=replit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bolt.new-000000?style=for-the-badge&logo=bolt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lovable-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flowise_AI-00C4CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Antigravity-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 </p>
 
 ---
