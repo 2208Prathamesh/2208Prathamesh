@@ -141,5 +141,5 @@
 <br>
 
 <p align="center">
-  <strong>⚙️ Designed & Built by Prathamesh Barbole — 2026 🚀</strong>
+  <strong>⚙️ Designed & Built by Prathamesh Barbole with ❤️ — 2026 🚀</strong>
 </p>
