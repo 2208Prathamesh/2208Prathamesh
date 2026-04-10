@@ -84,10 +84,6 @@
 
 <h2 align="center">🏆 GitHub Stats & Trophies</h2>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=2208Prathamesh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=6" alt="GitHub Trophies" />
-</p>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=2208Prathamesh&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=2208Prathamesh&theme=tokyonight&hide_border=true&fire=36BCF7&ring=36BCF7" height="160"/>
