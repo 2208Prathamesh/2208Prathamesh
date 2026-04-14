@@ -151,15 +151,15 @@
 <h2 align="center">🏆 GitHub Stats & Trophies</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2208Prathamesh&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2208Prathamesh&theme=tokyonight&hide_border=true&fire=36BCF7&ring=36BCF7" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2208Prathamesh&theme=tokyonight&hide_border=true&fire=36BCF7&ring=36BCF7" height="160" alt="GitHub Streak"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2208Prathamesh&theme=tokyonight" height="160" alt="Repos per Language"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2208Prathamesh&theme=tokyonight&utcOffset=8" height="160" alt="Productive Time"/>
 </div>
-
-<br>
-
-<p align="center">
+<br/>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=2208Prathamesh&theme=tokyonight" height="160" alt="Profile Summary Stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2208Prathamesh&theme=tokyonight" width="700"/>
-</p>
+</div>
 
 ---
 
