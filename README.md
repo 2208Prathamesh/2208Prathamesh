@@ -95,6 +95,8 @@
   <a href="https://archlinux.org/"><img src="https://skillicons.dev/icons?i=arch" alt="Arch Linux" /></a>
   <a href="https://www.kali.org/"><img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" /></a>
   <a href="https://www.microsoft.com/windows/"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" /></a>
+  <a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" /></a>
+  <a href="https://www.gnu.org/software/bash/manual/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
 </p>
 
 <p align="center"><b>Tools & Platforms</b><br>
@@ -107,7 +109,6 @@
   <a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" /></a>
   <a href="https://eclipseide.org/"><img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" /></a>
   <a href="https://replit.com/"><img src="https://skillicons.dev/icons?i=replit" alt="Replit" /></a>
-  <a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" /></a>
   <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
   <a href="https://www.electronjs.org/"><img src="https://skillicons.dev/icons?i=electron" alt="Electron" /></a>
   <a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" /></a>
