@@ -27,6 +27,7 @@
         <li>🌐 Experienced in Web Development & Domain Management</li>
         <li>🤖 Deeply interested in <b>AI workflows, API integrations & Automation</b></li>
         <li>⚡ Currently focused on shipping code and pushing performance limits...</li>
+        <br>
       </ul>
     </td>
     <td width="40%" align="center" style="border: none;">
@@ -129,9 +130,11 @@
       <p align="center"><b>Connect</b><br>
 
   <a href="https://go.barbole.in/linkedin"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://go.barbole.in/x"><img src="https://skillicons.dev/icons?i=twitter" alt="twitter" /></a>
   <a href="https://www.instagram.com/prathamesh_barbole"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a><br>
   <a href="https://go.barbole.in/discord"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a> 
-  <a href="mailto:Ybarboleprathamesh2208@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
+  <a href="mailto:barboleprathamesh2208@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
+  <a href="https://go.barbole.in/spotify"><img src="https://skillicons.dev/icons?i=spotify" alt="Spotify" /></a>
    </td>
   </tr>
 </table>
@@ -139,5 +142,10 @@
 <br>
 
 <p align="center">
-  <strong>⚙️ Designed & Built by Prathamesh Barbole with ❤️ — APR 2026 🚀</strong>
+  <strong>⚙️ Designed & Built by Prathamesh Barbole with ❤️ </strong>
 </p>
+<div align="right">
+  <a href="https://github.com/2208Prathamesh/2208Prathamesh/commits/main">
+    <img src="https://img.shields.io/github/last-commit/2208Prathamesh/2208Prathamesh?style=flat-square&color=f4a261&labelColor=1a1b26&logo=github&label=Last%20Update" alt="Last Update" />
+  </a>
+</div>
