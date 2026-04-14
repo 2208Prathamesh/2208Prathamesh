@@ -40,55 +40,91 @@
 
 <h2 align="center">🛠️ Tech Arsenal</h2>
 
-<p align="center"><b>Core Languages</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,php,js,ts&perline=6" />
+<p align="center"><b>Core Languages</b><br>
+  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+  <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
 </p>
 
-<p align="center"><b>Frontend & Graphics</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,redux,nextjs,threejs,p5js&perline=9" />
+<p align="center"><b>Frontend & Design</b><br>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
+  <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" /></a>
+  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
+  <a href="https://threejs.org/"><img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" /></a>
+  <a href="https://p5js.org/"><img src="https://skillicons.dev/icons?i=p5js" alt="p5.js" /></a>
+  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
+  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" /></a>
+  <a href="https://www.w3.org/Graphics/SVG/"><img src="https://skillicons.dev/icons?i=svg" alt="SVG" /></a>
 </p>
 
-<p align="center"><b>Backend & Databases</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,sqlite,mongodb,redis,supabase,firebase&perline=10" />
+<p align="center"><b>Backend & Databases</b><br>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+  <a href="https://bun.sh/"><img src="https://skillicons.dev/icons?i=bun" alt="Bun" /></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="Express" /></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <a href="https://sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+  <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" /></a>
+  <a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" /></a>
+  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></a>
 </p>
 
-<p align="center"><b>Cloud, Hosting & DevOps</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,vercel,netlify,docker,nginx&perline=8" />
+<p align="center"><b>Cloud, DevOps & OS</b><br>
+  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
+  <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp" alt="GCP" /></a>
+  <a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure" alt="Azure" /></a>
+  <a href="https://www.cloudflare.com/"><img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" /></a>
+  <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /></a>
+  <a href="https://www.netlify.com/"><img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" /></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+  <a href="https://nginx.org/"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" /></a>
+  <a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+  <a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" /></a>
+  <a href="https://www.debian.org/"><img src="https://skillicons.dev/icons?i=debian" alt="Debian" /></a>
+  <a href="https://archlinux.org/"><img src="https://skillicons.dev/icons?i=arch" alt="Arch Linux" /></a>
+  <a href="https://www.kali.org/"><img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" /></a>
+  <a href="https://www.microsoft.com/windows/"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" /></a>
 </p>
 
-<p align="center"><b>Operating Systems</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,kali,windows&perline=6" />
+<p align="center"><b>Tools & Platforms</b><br>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://about.gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" /></a>
+  <a href="https://www.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm" alt="npm" /></a>
+  <a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
+  <a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" /></a>
+  <a href="https://eclipseide.org/"><img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" /></a>
+  <a href="https://replit.com/"><img src="https://skillicons.dev/icons?i=replit" alt="Replit" /></a>
+  <a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" /></a>
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
+  <a href="https://www.electronjs.org/"><img src="https://skillicons.dev/icons?i=electron" alt="Electron" /></a>
+  <a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" /></a>
+  <a href="https://www.raspberrypi.org/"><img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi" /></a>
+  <a href="https://wordpress.org/"><img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" /></a>
+  <a href="https://www.notion.so/"><img src="https://skillicons.dev/icons?i=notion" alt="Notion" /></a>
+  <a href="https://en.wikipedia.org/wiki/Internet_bot"><img src="https://skillicons.dev/icons?i=bots" alt="Bots" /></a>
 </p>
 
-<p align="center"><b>Build Tools & Version Control</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=bun,npm,vite,git,github,gitlab&perline=6" />
+<p align="center"><b>Connect</b><br>
+  <a href="https://go.barbole.in/linkedin"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://go.barbole.in/x"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
+  <a href="https://go.barbole.in/discord"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
+  <a href="https://www.instagram.com/prathamesh_barbole"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+  <a href="mailto:Ybarboleprathamesh2208@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
 </p>
 
-<p align="center"><b>IDEs & Terminals</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,replit,powershell&perline=5" />
-</p>
 
-<p align="center"><b>Design, Workspaces & CMS</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,svg,notion,wordpress&perline=5" />
-</p>
-
-<p align="center"><b>Tools & Hardware</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,electron,arduino,raspberrypi,bots&perline=5" />
-</p>
-
-<p align="center"><b>Connect</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linkedin,twitter,discord,instagram,gmail&perline=5" />
-</p>
+   
 <p align="center"><b>AI Powerhouse</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
