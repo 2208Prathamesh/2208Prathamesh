@@ -154,11 +154,13 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=2208Prathamesh&theme=tokyonight&hide_border=true&fire=36BCF7&ring=36BCF7" height="160" alt="GitHub Streak"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2208Prathamesh&theme=tokyonight" height="160" alt="Repos per Language"/>
+  </div>
+<div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2208Prathamesh&theme=tokyonight&utcOffset=8" height="160" alt="Productive Time"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=2208Prathamesh&theme=tokyonight" height="160" alt="Profile Summary Stats"/>
 </div>
 <br/>
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=2208Prathamesh&theme=tokyonight" height="160" alt="Profile Summary Stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2208Prathamesh&theme=tokyonight" width="700"/>
 </div>
 
