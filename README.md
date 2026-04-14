@@ -76,6 +76,8 @@
   <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" /></a>
   <a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" /></a>
   <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></a>
+  <a href="https://en.wikipedia.org/wiki/Internet_bot"><img src="https://skillicons.dev/icons?i=bots" alt="Bots" /></a>
+
 </p>
 
 <p align="center"><b>Cloud, DevOps & OS</b><br>
@@ -112,7 +114,6 @@
   <a href="https://www.raspberrypi.org/"><img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi" /></a>
   <a href="https://wordpress.org/"><img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" /></a>
   <a href="https://www.notion.so/"><img src="https://skillicons.dev/icons?i=notion" alt="Notion" /></a>
-  <a href="https://en.wikipedia.org/wiki/Internet_bot"><img src="https://skillicons.dev/icons?i=bots" alt="Bots" /></a>
 </p>
 
 <p align="center"><b>Connect</b><br>
