@@ -42,24 +42,53 @@
 
 <p align="center"><b>Core Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,ts,js&perline=10" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,php,js,ts&perline=6" />
 </p>
 
-<p align="center"><b>Frontend & UI</b></p>
+<p align="center"><b>Frontend & Graphics</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,bootstrap,html,css&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,redux,nextjs,threejs,p5js&perline=9" />
 </p>
 
 <p align="center"><b>Backend & Databases</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,redis,mysql,mongodb,firebase&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,sqlite,mongodb,redis,supabase,firebase&perline=10" />
 </p>
 
-<p align="center"><b>DevOps, Cloud & Tools</b></p>
+<p align="center"><b>Cloud, Hosting & DevOps</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws,azure,gcp,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,vercel,netlify,docker,nginx&perline=8" />
 </p>
 
+<p align="center"><b>Operating Systems</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,kali,windows&perline=6" />
+</p>
+
+<p align="center"><b>Build Tools & Version Control</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bun,npm,vite,git,github,gitlab&perline=6" />
+</p>
+
+<p align="center"><b>IDEs & Terminals</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,replit,powershell&perline=5" />
+</p>
+
+<p align="center"><b>Design, Workspaces & CMS</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,svg,notion,wordpress&perline=5" />
+</p>
+
+<p align="center"><b>Tools & Hardware</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,electron,arduino,raspberrypi,bots&perline=5" />
+</p>
+
+<p align="center"><b>Connect</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linkedin,twitter,discord,instagram,gmail&perline=5" />
+</p>
 <p align="center"><b>AI Powerhouse</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
