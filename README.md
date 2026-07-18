@@ -1,20 +1,35 @@
+<h1>
+  ✌️ Yo! I'm <strong>Prathamesh</strong>
+  <img
+    align="right"
+    src="https://komarev.com/ghpvc/?username=2208Prathamesh&style=for-the-badge&label=PROFILE%20VIEWS&color=36BCF7"
+    alt="Profile Views"
+  />
+</h1>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Prathamesh%20Barbole&fontSize=70&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Software%20Developer%20%7C%20AI%20Enthusiast%20%7C%20System%20Builder&descAlignY=58&descSize=20" width="100%" alt="Header Banner" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&section=header&text=Prathamesh%20Barbole&fontSize=72&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Software%20Developer%20•%20AI%20Enthusiast%20•%20System%20Builder&descAlignY=60&descSize=22"
+    width="100%"
+    alt="Prathamesh Barbole Header"
+  />
 </div>
 
-<h1 align="center">Yo! I'm Prathamesh ✌️</h1>
+
+<div align="center">
+<table>
+          <tr>
+            <td valign="top"><img src="./ascii.svg" width="370" /></td>
+            <td valign="top"><img src="./info-card.svg" width="490" /></td>
+          </tr>
+        </table>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=B.Tech+in+Information+Technology;Building+Clean,+Secure,+and+Scalable+Systems;AI+and+Automation+Enthusiast;Founder+of+Heropixel+Network;Learn.+Build.+Innovate." alt="Typing Text" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/2208Prathamesh">
-    <img src="https://komarev.com/ghpvc/?username=2208Prathamesh&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" alt="Profile Views" />
-  </a>
-</p>
-
----
+<!-- 
 
 <table align="center" border="0" style="border: none; background: transparent;">
   <tr>
@@ -35,7 +50,7 @@
     </td>
   </tr>
 </table>
-
+-->
 ---
 
 <h2 align="center">🛠️ Tech Arsenal</h2>
